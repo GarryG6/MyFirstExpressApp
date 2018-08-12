@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$" />
+      <option name="arguments" value="--pretty $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -11,10 +11,16 @@
       <option name="name" value="Pug/Jade" />
       <option name="output" value="$FileNameWithoutExtension$.html" />
       <option name="outputFilters">
-        <array />
+        <array>
+          <FilterInfo>
+            <option name="description" value="" />
+            <option name="name" value="" />
+            <option name="regExp" value="$FileNameWithoutExtension$.html" />
+          </FilterInfo>
+        </array>
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$PROJECT_DIR$" />
+      <option name="program" value="$PROJECT_DIR$/node_modules/.bin/pug.cmd" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
