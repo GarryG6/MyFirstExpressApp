@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204bfb67-ca45-4170-94c5-80981cbde361" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app_server/views/location-list.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/controllers/location.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/controllers/location.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/views/layout.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_server/controllers/others.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/controllers/others.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,18 +30,19 @@
     <session id="-1684693558">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.120" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.73" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="7" />
-          <entry key="js" value="9" />
+          <entry key="js" value="12" />
           <entry key="map" value="2" />
           <entry key="pug" value="4" />
           <entry key="www" value="1" />
@@ -52,24 +52,24 @@
         <counts>
           <entry key="CSS" value="7" />
           <entry key="Jade" value="4" />
-          <entry key="JavaScript" value="10" />
+          <entry key="JavaScript" value="13" />
           <entry key="SourceMap" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1" />
-          <entry key="js" value="1295" />
+          <entry key="js" value="1296" />
           <entry key="pug" value="1303" />
-          <entry key="txt" value="76" />
+          <entry key="txt" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1" />
           <entry key="Jade" value="1303" />
-          <entry key="JavaScript" value="1295" />
-          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="JavaScript" value="1296" />
+          <entry key="PLAIN_TEXT" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -85,7 +85,16 @@
         <entry file="file://$PROJECT_DIR$/app_server/views/index.pug">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_server/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -102,60 +111,57 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app_server/views/location-list.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="195">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="2357" column="35" selection-start-line="2357" selection-start-column="35" selection-end-line="2357" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap-grid.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_server/controllers/location.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_server/controllers/others.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css.map">
-          <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map">
-          <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="sourcemapFileViewerProvider" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/bootstrap/css/amelia.bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-703">
+            <state relative-caret-position="37530">
               <caret line="2502" column="19" selection-start-line="2502" selection-start-column="16" selection-end-line="2502" selection-end-column="19" />
             </state>
           </provider>
@@ -189,12 +195,12 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/app_server/views/index.pug" />
         <option value="$PROJECT_DIR$/app_server/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app_server/controllers/others.js" />
         <option value="$PROJECT_DIR$/app_server/routes/index.js" />
         <option value="$PROJECT_DIR$/app_server/views/layout.pug" />
         <option value="$PROJECT_DIR$/app_server/controllers/location.js" />
         <option value="$PROJECT_DIR$/app_server/views/location-list.pug" />
         <option value="$PROJECT_DIR$/public/stylesheets/style1.css" />
+        <option value="$PROJECT_DIR$/app_server/controllers/others.js" />
       </list>
     </option>
   </component>
@@ -229,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,10 +315,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -359,7 +366,8 @@
       <workItem from="1533470278338" duration="722000" />
       <workItem from="1533471039776" duration="3542000" />
       <workItem from="1533561006886" duration="3482000" />
-      <workItem from="1533625369544" duration="10990000" />
+      <workItem from="1533625369544" duration="12356000" />
+      <workItem from="1533872269693" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="Отделение контроллеров от маршрутов">
       <created>1533551748893</created>
@@ -375,22 +383,29 @@
       <option name="project" value="LOCAL" />
       <updated>1533638005697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+ New home page">
+      <created>1533742926077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533742926077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24416000" />
+    <option name="totallyTimeSpent" value="27265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24330357" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" sideWeight="0.50119907" side_tool="true" weight="0.24330357" />
       <window_info id="npm" order="2" sideWeight="0.50119907" side_tool="true" weight="0.24330357" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286219" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.329582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,7 +444,8 @@
     <MESSAGE value="+ Bootstrap" />
     <MESSAGE value="+ Bootstrap +css" />
     <MESSAGE value="+ Маршруты и контролы" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Маршруты и контролы" />
+    <MESSAGE value="+ New home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ New home page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/javascripts/jquery-3.3.1.min.js">
@@ -442,23 +458,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/controllers/others.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/controllers/main.js" />
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -475,23 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="201" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/controllers/location.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,32 +498,55 @@
     <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/amelia.bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/app_server/views/index.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-703">
-          <caret line="2502" column="19" selection-start-line="2502" selection-start-column="16" selection-end-line="2502" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/controllers/location.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/controllers/others.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bootstrap/css/amelia.bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="37530">
+          <caret line="2502" column="19" selection-start-line="2502" selection-start-column="16" selection-end-line="2502" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/views/index.pug">
+    <entry file="file://$PROJECT_DIR$/app_server/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -553,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app_server/views/location-list.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="195">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
