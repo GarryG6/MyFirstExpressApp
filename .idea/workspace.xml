@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204bfb67-ca45-4170-94c5-80981cbde361" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app_server/views/location-info.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_server/views/location-review-form.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app_server/controllers/location.js" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/controllers/location.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_server/views/error.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app_server/views/error.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,36 +43,36 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="8" />
-          <entry key="html" value="4" />
-          <entry key="js" value="15" />
+          <entry key="html" value="5" />
+          <entry key="js" value="16" />
           <entry key="map" value="2" />
-          <entry key="pug" value="10" />
+          <entry key="pug" value="11" />
           <entry key="www" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="8" />
-          <entry key="HTML" value="4" />
-          <entry key="Jade" value="10" />
-          <entry key="JavaScript" value="16" />
+          <entry key="HTML" value="5" />
+          <entry key="Jade" value="11" />
+          <entry key="JavaScript" value="17" />
           <entry key="SourceMap" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="71" />
-          <entry key="js" value="1309" />
-          <entry key="pug" value="2627" />
-          <entry key="txt" value="102" />
+          <entry key="js" value="1329" />
+          <entry key="pug" value="3078" />
+          <entry key="txt" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="71" />
-          <entry key="Jade" value="2627" />
-          <entry key="JavaScript" value="1309" />
-          <entry key="PLAIN_TEXT" value="102" />
+          <entry key="Jade" value="3078" />
+          <entry key="JavaScript" value="1329" />
+          <entry key="PLAIN_TEXT" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -98,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app_server/views/location-info.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="43" column="186" selection-start-line="43" selection-start-column="186" selection-end-line="43" selection-end-column="186" />
+            <state relative-caret-position="109">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -117,17 +112,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app_server/views/location-info.html">
+        <entry file="file://$PROJECT_DIR$/app_server/controllers/location.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1695">
+            <state relative-caret-position="253">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#2095#2101#0" expanded="true" />
-                <element signature="e#2119#2125#1" expanded="true" />
-                <element signature="e#2203#2209#0" expanded="true" />
-                <element signature="e#2221#2227#1" expanded="true" />
-                <element signature="e#2305#2311#0" expanded="true" />
-                <element signature="e#2331#2337#1" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app_server/views/location-review-form.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -169,7 +169,6 @@
         <option value="$PROJECT_DIR$/app_server/views/location-list.pug" />
         <option value="$PROJECT_DIR$/public/stylesheets/style1.css" />
         <option value="$PROJECT_DIR$/app_server/controllers/others.js" />
-        <option value="$PROJECT_DIR$/app_server/controllers/location.js" />
         <option value="$PROJECT_DIR$/app_server/views/q.pug" />
         <option value="$PROJECT_DIR$/app_server/views/r.pug" />
         <option value="$PROJECT_DIR$/app_server/views/45.pug" />
@@ -178,6 +177,8 @@
         <option value="$PROJECT_DIR$/app_server/views/layout.pug" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/app_server/views/location-info.pug" />
+        <option value="$PROJECT_DIR$/app_server/controllers/location.js" />
+        <option value="$PROJECT_DIR$/app_server/views/location-review-form.pug" />
       </list>
     </option>
   </component>
@@ -240,13 +241,15 @@
             <path>
               <item name="MyFirstExpressApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstExpressApp" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="app_server" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstExpressApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstExpressApp" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="app_server" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="location-review-form.pug" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +310,7 @@
       <workItem from="1533872269693" duration="1483000" />
       <workItem from="1534055382749" duration="691000" />
       <workItem from="1534056615239" duration="9649000" />
-      <workItem from="1534066823611" duration="16061000" />
+      <workItem from="1534066823611" duration="21907000" />
     </task>
     <task id="LOCAL-00001" summary="Отделение контроллеров от маршрутов">
       <created>1533551748893</created>
@@ -337,23 +340,29 @@
       <option name="project" value="LOCAL" />
       <updated>1534055497840</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ New location info page">
+      <created>1534090749254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534090749254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53666000" />
+    <option name="totallyTimeSpent" value="59512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24330357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" sideWeight="0.50119907" side_tool="true" weight="0.24330357" />
       <window_info id="npm" order="2" sideWeight="0.50119907" side_tool="true" weight="0.24330357" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286219" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +403,8 @@
     <MESSAGE value="+ Маршруты и контролы" />
     <MESSAGE value="+ New home page" />
     <MESSAGE value="+ New home page style" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ New home page style" />
+    <MESSAGE value="+ New location info page" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ New location info page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/javascripts/jquery-3.3.1.min.js">
@@ -466,16 +476,6 @@
       <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/controllers/location.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app_server/views/q.pug">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -540,10 +540,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/location-info.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app_server/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/controllers/location.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -568,10 +585,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_server/views/location-info.pug">
+    <entry file="file://$PROJECT_DIR$/app_server/views/location-review-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="43" column="186" selection-start-line="43" selection-start-column="186" selection-end-line="43" selection-end-column="186" />
+        <state relative-caret-position="-1347" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_server/views/location-review-form.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
